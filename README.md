@@ -4,9 +4,7 @@
 
 1. Go to devServer folder in command-line and run the below code
 
-```javascript
-node --inspect app.js
-```
+> ``` node --inspect server ```
 
 2. Open chrome console window and click on the top Node icon (screenshot)
 
@@ -21,12 +19,10 @@ node --inspect app.js
 
 1.  Go to terminal in IDE and run the below code
 
-```javascript
-npm run lambda
-```
+> ``` npm run lambda ```
 (starts node server)
 
-2. Click ```Shift+Ctrl+p```
+2. Click > ```Shift+Ctrl+p```
 3. Select Attach to Node Process.
 ![alt text](images/vscode.jpg "chrome")
 4. Select the top option to attach the debugger.
