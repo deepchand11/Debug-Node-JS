@@ -1,4 +1,4 @@
-#1.Debugging Node in Chrome with the inspect flag
+# 1.Debugging Node in Chrome with the inspect flag
 
 ## Steps
 
@@ -11,7 +11,7 @@ node --inspect app.js
 3. Opens a new chrome Node console window
 
 
-#2.Debug in your IDE (VS Code)
+# 2.Debug in your IDE (VS Code)
 
 ## Steps
 
