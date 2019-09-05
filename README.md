@@ -4,7 +4,9 @@
 
 1. Go to devServer folder in command-line and run the below code
 
-```javascript node --inspect app.js ```
+```javascript
+node --inspect app.js
+```
 
 2. Open chrome console window and click on the top Node icon (screenshot)
 
@@ -17,7 +19,10 @@
 
 1.  Go to terminal in IDE and run the below code
 
-```javascript npm run lambda ```(starts node server)
+```javascript
+npm run lambda
+```
+(starts node server)
 
 1. Click ```Shift+Ctrl+p```
 2. Select Attach to Node Process.
