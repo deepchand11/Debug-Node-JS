@@ -24,9 +24,9 @@ npm run lambda
 ```
 (starts node server)
 
-1. Click ```Shift+Ctrl+p```
-2. Select Attach to Node Process.
-3. Select the top option to attach the debugger.
-4. After attaching debugger to Node then you will see the debugger controls.
+2. Click ```Shift+Ctrl+p```
+3. Select Attach to Node Process.
+4. Select the top option to attach the debugger.
+5. After attaching debugger to Node then you will see the debugger controls.
 
 And you're up and debugging! You can add breakpoints to your code right in your IDE, plus see the scoping of variables and the call stack.
